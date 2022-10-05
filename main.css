@@ -13,5 +13,5 @@
 }
 
 .profile-photo {
-    visibility: hidden;
+    visibility: hidden !important;
 }
