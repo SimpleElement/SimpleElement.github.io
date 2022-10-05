@@ -13,7 +13,7 @@
 }
 
 .profile-photo {
-    display: none !important;
+    visibility: hidden !important;
 }
 
 .profile-block {
