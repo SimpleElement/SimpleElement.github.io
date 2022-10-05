@@ -5,3 +5,7 @@
     margin: 20px 0;
     display: block;
 }
+
+.text-semibold {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
