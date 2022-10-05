@@ -12,7 +12,7 @@
     font-family: 'Pacifico', cursive !important;
 }
 
-.text-semibold, .padding-xs-hr, .nav-tabs, .panel-body {
+.text-semibold, .padding-xs-hr.text-muted, .nav.nav-tabs.no-margin-b, .tab-content.tab-content-bordered.panel-padding {
     font-family: 'Pacifico', cursive !important;
     font-size: 150% !important;
 }
