@@ -11,3 +11,7 @@
 .text-semibold, .padding-xs-hr, .nav-tabs, .panel-body, #left_main_person_info {
     font-family: 'Pacifico', cursive !important;
 }
+
+.profile-photo {
+    visibility: hidden;
+}
