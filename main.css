@@ -1,13 +1,13 @@
 @import url(https://fonts.googleapis.com/css2?family=Pacifico&display=swap);
 
 .pers-info-block::before {
-    content: "TOP 1 IN THE P33111";
+    content: "TOP IN THE P33111";
     font-size: 15px;
     font-weight: 500;
     margin: 10px 0;
     display: block;
 }
 
-.text-semibold, .padding-xs-hr, .nav-tabs, .panel-body {
+.text-semibold, .padding-xs-hr, .nav-tabs, .panel-body, #left_main_person_info {
     font-family: 'Pacifico', cursive !important;
 }
