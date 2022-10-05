@@ -7,5 +7,5 @@
 }
 
 .text-semibold {
-    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-family: Brush Script MT, Brush Script Std, cursive !important;
 }
