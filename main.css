@@ -14,5 +14,8 @@
 
 .profile-photo {
     background-image: url(https://pa1.narvii.com/6581/7f4eb1fec7f09299609da6396d6768955d1c9073_hq.gif) !important;
+}
+
+.profile-photo:first-child {
     visibility: hidden !important;
 }
