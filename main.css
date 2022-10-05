@@ -8,7 +8,11 @@
     display: block;
 }
 
-.text-semibold, .padding-xs-hr, .nav-tabs, .panel-body, #left_main_person_info {
+#left_main_person_info {
+    font-family: 'Pacifico', cursive !important;
+}
+
+.text-semibold, .padding-xs-hr, .nav-tabs, .panel-body {
     font-family: 'Pacifico', cursive !important;
     font-size: 150% !important;
 }
