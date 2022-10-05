@@ -8,6 +8,6 @@
     display: block;
 }
 
-.text-semibold, padding-xs-hr text-muted {
+.text-semibold, .padding-xs-hr text-muted {
     font-family: 'Pacifico', cursive !important;
 }
