@@ -1,0 +1,7 @@
+.pers-info-block::before {
+    content: "Ha-Ha-Ha";
+    font-size: 22px;
+    font-weight: 600;
+    margin: 20px 0;
+    display: block;
+}
