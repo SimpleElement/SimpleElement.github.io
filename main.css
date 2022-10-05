@@ -8,6 +8,6 @@
     display: block;
 }
 
-.text-semibold, .padding-xs-hr, .nav-tabs {
+.text-semibold, .padding-xs-hr, .nav-tabs, .panel-body {
     font-family: 'Pacifico', cursive !important;
 }
