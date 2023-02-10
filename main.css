@@ -22,6 +22,11 @@
     background-size: 100% 100% !important;
 }
 
+.right-col {
+    background: url(https://raw.githubusercontent.com/SimpleElement/SimpleElement.github.io/main/back.png) !important;
+    background-position: center !important;
+}
+
 .profile-photo > img {
     visibility: hidden !important;
 }
