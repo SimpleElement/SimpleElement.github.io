@@ -24,6 +24,7 @@
 
 .right-col {
     background: url(https://raw.githubusercontent.com/SimpleElement/SimpleElement.github.io/main/backNew1.png) !important;
+    background-size: 100% 100% !important;
     background-position: center !important;
 }
 
